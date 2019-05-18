@@ -1,0 +1,16 @@
+# main links
+main:
+  - title: "Posts"
+    url: /posts/
+  - title: "About"
+    url: /about/
+  - title: "Site"
+    url: http://isiroca.com    
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/

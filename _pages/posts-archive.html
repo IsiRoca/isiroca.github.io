@@ -1,0 +1,11 @@
+---
+layout: archive
+title: "Posts Archive"
+permalink: /posts/
+author_profile: true
+toc: true
+---
+
+{% for post in site.posts limit: 10 %}
+  {% include archive-single.html %}
+{% endfor %}
