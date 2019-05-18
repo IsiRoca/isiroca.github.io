@@ -1,6 +1,6 @@
 ---
 title: "Design Patterns"
-excerpt: "Design Patterns test..."
+excerpt: "About main Design Patterns in Software."
 permalink: /posts/patterns/
 layout: single
 toc: true

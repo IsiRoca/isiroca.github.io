@@ -1,6 +1,6 @@
 ---
 title: "Solid Principles"
-excerpt: "Solid Principles test..."
+excerpt: "About the five Solid Principles."
 permalink: /posts/solid-principles/
 layout: single
 toc: true
